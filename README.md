@@ -9,17 +9,33 @@
 </div>
 
 ###
-<!--
-**alexschoenthaler/alexschoenthaler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alex Schönthaler — Frontend Developer
 
-Here are some ideas to get you started:
+Laas, South Tyrol 
+Building clean, accessible, and fast interfaces  
+I craft responsive web apps with modern JavaScript, structured CSS, and semantic HTML.  
+Experienced with Firebase (Auth/DB/Hosting) and Bootstrap for consistent, rapid UI development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- JavaScript (ES6+), CSS3, HTML5
+- Firebase (Realtime DB, Authentication, Hosting)
+- Bootstrap 5 (Grid, Components, Utilities)
+- Git & GitHub
+
+## 🎯 What I Care About
+- Clear component architecture and reusable styles
+- Mobile‑first design and accessibility (ARIA, keyboard support)
+- Clean data flows and understandable state management
+- Fast builds and straightforward deployments (Firebase Hosting)
+
+## 🚀 Sample Ideas
+- Kanban board with drag‑and‑drop and Firebase persistence
+- Authentication flow (sign‑up/sign‑in) with Firebase Auth
+- Component library leveraging Bootstrap utilities
+
+## 📬 Contact
+- Email: alexschoenthaler03@gmail.com
+- GitHub: alexschoenthaler
+
+
+
