@@ -10,8 +10,8 @@
 
 ###
 # Alex Schönthaler — Frontend Developer
-
 Laas, South Tyrol 
+
 Building clean, accessible, and fast interfaces  
 I craft responsive web apps with modern JavaScript, structured CSS, and semantic HTML.  
 Experienced with Firebase (Auth/DB/Hosting) and Bootstrap for consistent, rapid UI development.
