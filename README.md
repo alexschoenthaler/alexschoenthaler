@@ -9,7 +9,7 @@
 </div>
 
 ###
-# Alex Schönthaler — Frontend Developer
+# Alex Schönthaler
 Laas, South Tyrol 
 
 Building clean, accessible, and fast interfaces  
